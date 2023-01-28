@@ -22,6 +22,7 @@ svg {
 .colors {
     color: rgb(212, 212, 212);
     display: flex;
+    margin: 0 0 1.25rem;
     min-height: 80vh;
 }
 @media screen and (max-width: 768px) {
@@ -103,7 +104,7 @@ svg {
     color: white;
     cursor: pointer;
     font-size: 1.2rem;
-    margin: 1rem;
+    margin: 0 1rem 1rem;
     padding: 1rem 2rem;
 }
 
